@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1465769081 source:c:\users\juan murcia\desktop\trabajos c\arraylist\implementacion\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1465596856 c:\users\juan murcia\desktop\trabajos c\arraylist\implementacion\arraylist.h
+
+1465764678 source:c:\users\juan murcia\desktop\trabajos c\arraylist\implementacion\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1465770867 source:c:\users\juan murcia\desktop\trabajos c\arraylist\implementacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1465763879 c:\users\juan murcia\desktop\trabajos c\arraylist\implementacion\funciones.h
+
+1465769082 source:d:\juan ignacio murcia\arraylist\implementacion\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1465596856 d:\juan ignacio murcia\arraylist\implementacion\arraylist.h
+
+1465857393 source:d:\juan ignacio murcia\arraylist\implementacion\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1465857393 d:\juan ignacio murcia\arraylist\implementacion\funciones.h
+
+1465769082 source:c:\users\juan murcia\desktop\trabajos c\arraylistnuevo\implementacion\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1465596856 c:\users\juan murcia\desktop\trabajos c\arraylistnuevo\implementacion\arraylist.h
+
+1466032766 source:c:\users\juan murcia\desktop\trabajos c\arraylistnuevo\implementacion\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1466032515 c:\users\juan murcia\desktop\trabajos c\arraylistnuevo\implementacion\funciones.h
+	"ArrayList.h"
+
+1466033077 source:c:\users\juan murcia\desktop\trabajos c\arraylistnuevo\implementacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
